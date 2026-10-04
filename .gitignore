@@ -1,0 +1,8 @@
+# 루트 기본 제외, 공통 에이전트 지침만 허용한다.
+/*
+!/.gitignore
+!/AGENTS.md
+!/CLAUDE.md
+!/INDEX.md
+!/agent-rules/
+!/agent-rules/**
